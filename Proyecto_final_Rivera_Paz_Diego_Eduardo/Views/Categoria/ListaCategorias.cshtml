@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Categoria>
+
+@{
+    ViewBag.Title = "Lista de Categorías";
+}
+
+<h2>Lista de Categorías</h2>
+
+<p>
+    @Html.ActionLink("Agregar Nueva Categoría", "AgregarCategoria", null, new { @class = "btn btn-primary" })
+</p>
+
+<div class="form-group">
+    @using (Html.BeginForm("ConsultarPorIDCategoria", "Categoria", FormMethod.Post, new { id = "consultaForm" }))
+    {
+        <label for="id">Consultar Categoría por ID:</label>
+        @Html.TextBox("id", null, new { @class = "form-control", placeholder = "Ingrese el ID de la categoría", id = "idInput" })
+        <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+    }
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().IdCategoria)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Descripcion)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Condicion)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.IdCategoria)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Condicion)</td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarCategoria", new { id = item.IdCategoria }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Eliminar", "EliminarCategoria", new { id = item.IdCategoria }, new { @class = "btn btn-danger", onclick = "return confirm('¿Estás seguro de que deseas eliminar esta categoría?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Consultar Todas las Categorías", "ConsultarTodoCategoria", null, new { @class = "btn btn-info" })
+</p>
+
+@section Scripts {
+    <script>
+        document.getElementById("consultaForm").onsubmit = function(event) {
+            var idInput = document.getElementById("idInput").value;
+            if (!idInput) {
+                event.preventDefault(); 
+                alert("Debe ingresar un ID."); 
+            }
+        };
+    </script>
+}

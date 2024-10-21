@@ -1,0 +1,71 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Persona>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Agregar Persona", "Agregar", null, new { @class = "btn btn-primary" })
+</p>
+
+<div class="form-group">
+    @using (Html.BeginForm("ConsultaInd", "Persona", FormMethod.Post, new { id = "consultaForm" }))
+    {
+        <label for="id">Consultar Persona por ID:</label>
+        @Html.TextBox("id", null, new { @class = "form-control", placeholder = "Ingrese el ID", id = "idInput" })
+        <button type="submit" class="btn btn-primary mt-2">Buscar</button>
+    }
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().IdPersona)</th>
+            <th>@Html.DisplayNameFor(model => model.First().TipoPersona)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.First().TipoDocumento)</th>
+            <th>@Html.DisplayNameFor(model => model.First().NumDocumento)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Direccion)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Telefono)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Email)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.IdPersona)</td>
+                <td>@Html.DisplayFor(modelItem => item.TipoPersona)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.TipoDocumento)</td>
+                <td>@Html.DisplayFor(modelItem => item.NumDocumento)</td>
+                <td>@Html.DisplayFor(modelItem => item.Direccion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Telefono)</td>
+                <td>@Html.DisplayFor(modelItem => item.Email)</td>
+                <td>
+                    @Html.ActionLink("Edit", "Editar", new { id = item.IdPersona }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Delete", "Eliminar", new { id = item.IdPersona }, new { @class = "btn btn-danger", onclick = "return confirm('¿Estás seguro de que deseas eliminar este registro?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Consultar Todo", "ConsultarTodo", null, new { @class = "btn btn-info" })
+</p>
+
+@section Scripts {
+    <script>
+        document.getElementById("consultaForm").onsubmit = function(event) {
+            var idInput = document.getElementById("idInput").value;
+            if (!idInput) {
+                event.preventDefault(); 
+                alert("Debe ingresar un ID."); 
+            }
+        };
+    </script>
+}

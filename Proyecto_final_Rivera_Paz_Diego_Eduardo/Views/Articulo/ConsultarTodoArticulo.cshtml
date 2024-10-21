@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Articulo>
+
+@{
+    ViewBag.Title = "Consultar Todo Artículo";
+}
+
+<h2>Reporte Total de Artículos</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID Artículo</th>
+            <th>ID Categoría</th>
+            <th>Código</th>
+            <th>Nombre</th>
+            <th>Stock</th>
+            <th>Descripción</th>
+            <th>Estado</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var articulo in Model)
+        {
+            <tr>
+                <td>@articulo.IdArticulo</td>
+                <td>@articulo.IdCategoria</td>
+                <td>@articulo.Codigo</td>
+                <td>@articulo.Nombre</td>
+                <td>@articulo.Stock</td>
+                <td>@articulo.Descripcion</td>
+                <td>@articulo.Estado</td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarArticulo", new { id = articulo.IdArticulo }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Eliminar", "EliminarArticulo", new { id = articulo.IdArticulo }, new { @class = "btn btn-danger", onclick = "return confirm('¿Está seguro de que desea eliminar este artículo?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Volver a la Lista de Artículos", "ListaArticulos", null, new { @class = "btn btn-primary" })
+</p>

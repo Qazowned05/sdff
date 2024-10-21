@@ -1,0 +1,42 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Persona>
+
+<h2>Reporte Total de Personas</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tipo de Persona</th>
+            <th>Nombre</th>
+            <th>Tipo de Documento</th>
+            <th>Número de Documento</th>
+            <th>Dirección</th>
+            <th>Teléfono</th>
+            <th>Email</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.IdPersona</td>
+                <td>@persona.TipoPersona</td>
+                <td>@persona.Nombre</td>
+                <td>@persona.TipoDocumento</td>
+                <td>@persona.NumDocumento</td>
+                <td>@persona.Direccion</td>
+                <td>@persona.Telefono</td>
+                <td>@persona.Email</td>
+                <td>
+                    @Html.ActionLink("Editar", "Editar", new { id = persona.IdPersona }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Eliminar", "Eliminar", new { id = persona.IdPersona }, new { @class = "btn btn-danger", onclick = "return confirm('¿Está seguro de que desea eliminar esta persona?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Volver a la Lista", "Index", null, new { @class = "btn btn-primary" })
+</p>

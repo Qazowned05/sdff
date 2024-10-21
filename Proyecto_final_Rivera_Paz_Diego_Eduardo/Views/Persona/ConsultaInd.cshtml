@@ -1,0 +1,75 @@
+﻿@model Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Persona
+
+@{
+    ViewBag.Title = "Consulta por ID";
+}
+
+<h2>Consulta por ID de Persona</h2>
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">
+        <strong>Error:</strong> No se encontró una persona con el ID proporcionado.
+    </div>
+}
+else
+{
+    <div>
+        <h4>Detalles de la Persona</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.TipoPersona)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.TipoPersona)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Nombre)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.TipoDocumento)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.TipoDocumento)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.NumDocumento)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.NumDocumento)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Direccion)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Direccion)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Telefono)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Telefono)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+        </dl>
+
+        <div>
+            @Html.ActionLink("Volver a la lista de Personas", "Index", null, new { @class = "btn btn-primary" })
+        </div>
+    </div>
+}

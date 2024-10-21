@@ -1,0 +1,47 @@
+﻿@model Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Users
+
+@{
+    ViewBag.Title = "Consulta por ID de Usuario";
+}
+
+<h2>Consulta por ID de Usuario</h2>
+
+@if (Model == null)
+{
+    <div class="alert alert-danger">
+        <strong>Error:</strong> No se encontró un usuario con el ID proporcionado.
+    </div>
+}
+else
+{
+    <div>
+        <h4>Detalles del Usuario</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Email)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Password)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Password)
+            </dd>
+        </dl>
+
+        <div>
+            @Html.ActionLink("Volver al Index", "ListaUsers", null, new { @class = "btn btn-primary" })
+        </div>
+    </div>
+}

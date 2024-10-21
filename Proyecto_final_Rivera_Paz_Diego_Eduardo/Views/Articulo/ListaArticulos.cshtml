@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Articulo>
+
+@{
+    ViewBag.Title = "Lista de Artículos";
+}
+
+<h2>Lista de Artículos</h2>
+
+<p>
+    @Html.ActionLink("Agregar Nuevo Artículo", "AgregarArticulo", null, new { @class = "btn btn-primary" })
+</p>
+
+<form method="get" action="@Url.Action("ListaArticulos", "Articulo")">
+    <label>Seleccionar categoría:</label>
+    @Html.DropDownList("idCategoria", new SelectList(ViewBag.Categorias, "IdCategoria", "Nombre"), "Seleccione una categoría", new { @class = "form-control" })
+    <br />
+    <label>Buscar artículo:</label>
+    @Html.TextBox("txtNombre", "", new { @class = "form-control" })
+    <br />
+    <button class="btn btn-primary">Consultar</button>
+</form>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.First().IdArticulo)</th>
+            <th>@Html.DisplayNameFor(model => model.First().IdCategoria)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Codigo)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Nombre)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Stock)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Descripcion)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Imagen)</th>
+            <th>@Html.DisplayNameFor(model => model.First().Estado)</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.IdArticulo)</td>
+                <td>@Html.DisplayFor(modelItem => item.IdCategoria)</td>
+                <td>@Html.DisplayFor(modelItem => item.Codigo)</td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Stock)</td>
+                <td>@Html.DisplayFor(modelItem => item.Descripcion)</td>
+                <td>@Html.DisplayFor(modelItem => item.Imagen)</td>
+                <td>@Html.DisplayFor(modelItem => item.Estado)</td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarArticulo", new { id = item.IdArticulo }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Eliminar", "EliminarArticulo", new { id = item.IdArticulo }, new { @class = "btn btn-danger", onclick = "return confirm('¿Estás seguro de que deseas eliminar este artículo?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Consultar Todos los Artículos", "ConsultarTodoArticulo", null, new { @class = "btn btn-info" })
+</p>

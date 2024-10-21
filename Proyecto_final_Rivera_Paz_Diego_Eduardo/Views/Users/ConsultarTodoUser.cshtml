@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Users>
+
+@{
+    ViewBag.Title = "ConsultarTodoUser";
+}
+
+<h2>Reporte Total de Usuarios</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Name</td>
+                <td>@user.Email</td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarUsuario", new { id = user.Id }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Eliminar", "EliminarUsuario", new { id = user.Id }, new { @class = "btn btn-danger", onclick = "return confirm('¿Está seguro de que desea eliminar este usuario?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Volver a la Lista de Usuarios", "ListaUsers", null, new { @class = "btn btn-primary" })
+</p>

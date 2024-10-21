@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Proyecto_final_Rivera_Paz_Diego_Eduardo.Models.Categoria>
+
+@{
+    ViewBag.Title = "Consultar Todo Categoría";
+}
+
+<h2>Reporte Total de Categorías</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>ID Categoría</th>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Condición</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var categoria in Model)
+        {
+            <tr>
+                <td>@categoria.IdCategoria</td>
+                <td>@categoria.Nombre</td>
+                <td>@categoria.Descripcion</td>
+                <td>@categoria.Condicion</td>
+                <td>
+                    @Html.ActionLink("Editar", "EditarCategoria", new { id = categoria.IdCategoria }, new { @class = "btn btn-warning" })
+                    @Html.ActionLink("Eliminar", "EliminarCategoria", new { id = categoria.IdCategoria }, new { @class = "btn btn-danger", onclick = "return confirm('¿Está seguro de que desea eliminar esta categoría?');" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    @Html.ActionLink("Volver a la Lista de Categorías", "ListaCategorias", null, new { @class = "btn btn-primary" })
+</p>

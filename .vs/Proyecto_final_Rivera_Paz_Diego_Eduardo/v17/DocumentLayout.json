@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\listaarticulos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\listaarticulos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\users\\listausers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\users\\listausers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\users\\editarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\users\\editarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\users\\consultartodouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\users\\consultartodouser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\users\\consultarporidusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\users\\consultarporidusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\users\\agregaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\users\\agregaruser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\consultartodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\consultartodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\consultaind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\persona\\consultaind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\listacategorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\listacategorias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\editarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\editarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\consultartodocategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\consultartodocategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\consultarporidcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\consultarporidcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\agregarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\categoria\\agregarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\agregararticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\agregararticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\consultarporidarticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\consultarporidarticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\consultartodoarticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\consultartodoarticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\editararticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\views\\articulo\\editararticulo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\models\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|c:\\users\\diego\\source\\repos\\proyecto_final_rivera_paz_diego_eduardo\\proyecto_final_rivera_paz_diego_eduardo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC0B3BD2-6647-4006-A384-6965A456CFA7}|Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo.csproj|solutionrelative:proyecto_final_rivera_paz_diego_eduardo\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ListaUsers.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ListaUsers.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ListaUsers.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ListaUsers.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:57.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\EditarUsuario.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\EditarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\EditarUsuario.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\EditarUsuario.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:52.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsultarTodoUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarTodoUser.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarTodoUser.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarTodoUser.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarTodoUser.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:50.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultarPorIDUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarPorIDUsers.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarPorIDUsers.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarPorIDUsers.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\ConsultarPorIDUsers.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:48.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AgregarUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\AgregarUser.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\AgregarUser.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\AgregarUser.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Users\\AgregarUser.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:44.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Editar.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Editar.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:30.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsultarTodo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultarTodo.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultarTodo.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultarTodo.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultarTodo.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:28.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsultaInd.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultaInd.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultaInd.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultaInd.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\ConsultaInd.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:26.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListaCategorias.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ListaCategorias.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ListaCategorias.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ListaCategorias.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ListaCategorias.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditarCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\EditarCategoria.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\EditarCategoria.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\EditarCategoria.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\EditarCategoria.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:16.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsultarTodoCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarTodoCategoria.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarTodoCategoria.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarTodoCategoria.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarTodoCategoria.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:14.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsultarPorIDCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarPorIDCategoria.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarPorIDCategoria.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarPorIDCategoria.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\ConsultarPorIDCategoria.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AgregarCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Categoria\\AgregarCategoria.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:10.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AgregarArticulo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\AgregarArticulo.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\AgregarArticulo.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\AgregarArticulo.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\AgregarArticulo.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:04.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConsultarPorIDArticulo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarPorIDArticulo.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarPorIDArticulo.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarPorIDArticulo.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarPorIDArticulo.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:26:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConsultarTodoArticulo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarTodoArticulo.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarTodoArticulo.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarTodoArticulo.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ConsultarTodoArticulo.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:25:59.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditarArticulo.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\EditarArticulo.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\EditarArticulo.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\EditarArticulo.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\EditarArticulo.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:25:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaArticulos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ListaArticulos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ListaArticulos.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ListaArticulos.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Articulo\\ListaArticulos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:25:48.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Users.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Persona.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Persona.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:15.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Categoria.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:14.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Articulo.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Articulo.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Models\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:13.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:08.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwJsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:07.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:06.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\ArticuloController.cs",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\ArticuloController.cs",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Controllers\\ArticuloController.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:25:05.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Diego\\source\\repos\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "Proyecto_final_Rivera_Paz_Diego_Eduardo\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:24:28.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
